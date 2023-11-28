@@ -1,19 +1,20 @@
 # Lenovo ThinkPad T470 OpenCore Configuration
 
-![repository-VENTURA-graph-template](https://user-images.githubusercontent.com/72415505/226120563-c3dc52be-ebb8-4e89-b143-b3c6c960af2f.png)
+![repository-open-graph-template-t470](https://github.com/MultimediaLucario/Lenovo-ThinkPad-T470/assets/72415505/b1c894af-b3d0-4e07-8abf-52e2bf1d3a48)
 
 
 
-[![macOS](https://img.shields.io/badge/macOS-Big_Sur_11.7.4-red)](https://www.apple.com/macos/big-sur/)
-[![macOS](https://img.shields.io/badge/macOS-Monterey_12.6.3-green)](https://www.apple.com/macos/monterey/)
-[![macOS](https://img.shields.io/badge/macOS-Ventura_13.2.1-orange)](https://www.apple.com/macos/ventura/)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.2-blue)](https://github.com/acidanthera/OpenCorePkg)
+
+[![macOS](https://img.shields.io/badge/macOS-Sonoma-red)](https://www.apple.com/macos/big-sur/)
+[![macOS](https://img.shields.io/badge/macOS-Monterey-green)](https://www.apple.com/macos/monterey/)
+[![macOS](https://img.shields.io/badge/macOS-Ventura-orange)](https://www.apple.com/macos/ventura/)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.6-blue)](https://github.com/acidanthera/OpenCorePkg)
 
 
 <p align="center">
    <strong>Status: Maintained</strong>
    <br />
-   <strong>OpenCore Version: </strong>0.9.2
+   <strong>OpenCore Version: </strong>0.9.6
    <br />
    <a href="https://github.com/MultimediaLucario/Lenovo-ThinkPad-T470/releases"><strong>Download now »</strong></a>
    <br />
