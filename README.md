@@ -1,10 +1,11 @@
 # Lenovo ThinkPad T470 OpenCore Configuration
 
-![repository-VENTURA-graph-template](https://user-images.githubusercontent.com/72415505/226120563-c3dc52be-ebb8-4e89-b143-b3c6c960af2f.png)
+![repository-open-graph-template-t470](https://github.com/MultimediaLucario/Lenovo-ThinkPad-T470/assets/72415505/b1c894af-b3d0-4e07-8abf-52e2bf1d3a48)
 
 
 
-[![macOS](https://img.shields.io/badge/macOS-Sonomared)](https://www.apple.com/macos/big-sur/)
+
+[![macOS](https://img.shields.io/badge/macOS-Sonoma-red)](https://www.apple.com/macos/big-sur/)
 [![macOS](https://img.shields.io/badge/macOS-Monterey-green)](https://www.apple.com/macos/monterey/)
 [![macOS](https://img.shields.io/badge/macOS-Ventura-orange)](https://www.apple.com/macos/ventura/)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.9.6-blue)](https://github.com/acidanthera/OpenCorePkg)
