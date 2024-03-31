@@ -34,6 +34,8 @@
 <summary><strong>Recent Changes ⌚️ </strong></summary>
 </br>
 
+**03.27.2024** : Updated to OpenCore ```0.9.8```, added the 2020 macOS Boot Chime, and added some minor patches.
+
 **11/28/2023** : Updated to OpenCore ```0.9.6```, added support for **macOS Sonoma**, and fixed Bluetooth.
 
 **05/17/2023** : Updated the OpenCore Bootloader to Version ```0.9.2``` and updated the ```AppleALC``` kext for improved headphone jack support.
