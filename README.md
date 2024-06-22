@@ -14,15 +14,8 @@
 <p align="center">
    <strong>Status: Maintained</strong>
    <br />
-   <strong>OpenCore Version: </strong>0.9.8
+   <strong>OpenCore Version: </strong>1.0.0
    <br />
-   <a href="https://github.com/MultimediaLucario/Lenovo-ThinkPad-T470/releases"><strong>Download now »</strong></a>
-   <br />
-   <a href="https://github.com/MultimediaLucario/Lenovo-ThinkPad-T440s/discussions">Report Bug</a>
-   ·
-   <a href="https://github.com/MultimediaLucario/Lenovo-ThinkPad-T440s/blob/main/CHANGELOG.md">Recent Changes</a>
-   ·
-   <a href=https://www.youtube.com/watch?v=6cAxwXj5Zy4">YouTube Review</a>
    ·
    <a href="https://github.com/ommerus/T470-EFI-OpenCore">Original Repo</a>
   </p>
@@ -33,6 +26,7 @@
 <details>  
 <summary><strong>Recent Changes ⌚️ </strong></summary>
 </br>
+**06.22.2024** : Updated to Opencore ```1.0.0```, changed SMBIOS to MacbookPro 14,1 (2017 Macbook Pro is working better but you should use other smbioses to upgrade)
 
 **03.27.2024** : Updated to OpenCore ```0.9.8```, added the 2020 macOS Boot Chime, and added some minor patches.
 
@@ -63,9 +57,9 @@
 
 | Model              | Lenovo ThinkPad T470                                                                              |
 |:-------------------|:----------------------------------------------------------------------------------------------------------|
-| Processor          | Intel Core i5-7300U (2C, 4T,  2.6GHz / 2.71GHz) vPro (The best compatibility with macOS)                                                              
+| Processor          | Intel Core i7-7600U (2C, 4T,  2.6GHz / 2.71GHz) vPro (The best compatibility with macOS)                                                              
 | Graphics           | Integrated Intel HD 620 Graphics with 4 GB of VRAM                                                                         |
-| Memory             | 12 GB DDR4 (1x 4 GB DDR4 SODIMM + 1x 8 GB SODIMM)                                                       |
+| Memory             | 16 GB DDR4 (1x 8 GB DDR4 SODIMM + 1x 8 GB SODIMM)                                                       |
 | Display            | 14" HD (1920x1080) IPS, Non-Touch                                                                      |
 | Storage            | 1 TB Pioneer SATA SSD                                                                                  |
 | Ethernet           | Intel Ethernet                                                         |
